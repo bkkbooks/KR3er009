@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er009_000-jc.yaml, hash: 'sha256:385f24108bfd2a3b0e8d6a52011a4044fc541eed2f589ef41cdc81bf636febc1'}
+  - {seq: 0, filename: KR3er009_000-jc.yaml, hash: 'sha256:944ada635dca51c5ced37281214f2e618d2e8dfd10ca7fe41dd31acb569b081e'}
   - {seq: 1, filename: KR3er009_001-jc.yaml, hash: 'sha256:17f4e88b01e45895195ff55d172cc81599be28fd54c17ab2e8b1cbc2ff65cb94'}
   - {seq: 2, filename: KR3er009_002-jc.yaml, hash: 'sha256:f860649ca38cc8595c2bcbde5301a6ce77cea05afaeef555855c53494695ae5e'}
   - {seq: 3, filename: KR3er009_003-jc.yaml, hash: 'sha256:fe3b90618dd6a2f0d2dc633778a136cda4ae29dbf6253110669e7a971a5a6b92'}
   - {seq: 4, filename: KR3er009_004-jc.yaml, hash: 'sha256:503a944194db9f02862af2a6f8c4a3dd281bccd20d0b92f65eb89b4ce212fe84'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er009_000-jc.markers.yaml, hash: 'sha256:df8f17f8ba2a2154f412e19f48e033c2fb73c024d013493c42e47d3bf610c919'}
+  - {seq: 0, role: markers, filename: assets/KR3er009_000-jc.markers.yaml, hash: 'sha256:c0128207ef97f0c907e94b68712c964208b9aa769fc7d1b3bf0ed3f05e98fbf5'}
   - {seq: 1, role: markers, filename: assets/KR3er009_001-jc.markers.yaml, hash: 'sha256:7c78ab5178cb29f1e28eb1ff128d96da2ae2eb7c28063de2abf0b2ce07da0deb'}
   - {seq: 2, role: markers, filename: assets/KR3er009_002-jc.markers.yaml, hash: 'sha256:205be34d9d02d4210a5c619481d93f128f9115bda974ba3d2f7c5a5f371dca4a'}
   - {seq: 3, role: markers, filename: assets/KR3er009_003-jc.markers.yaml, hash: 'sha256:fd3bd6ff248d598fe8c7b261ac63dcf11a083aa1fdab6b24b8a4acd39ce73f17'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er009_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 343
   label: 鍾序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er009_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 343
     - 757
   label: 自序
@@ -54,8 +54,8 @@ table_of_contents:
     marker_id: KR3er009_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 647
+    - 757
+    - 1404
   label: 例論
   type: section
   level: 1
@@ -589,4 +589,4 @@ table_of_contents:
   label: 女科列方
   type: section
   level: 3
-hash: sha256:ff7a472ab7b111d32362708b3c5074e309b9715498a82f93e03717317de89514
+hash: sha256:1922df2d1682f47846ab6e840bfc5704798c5a495af2d57714789dfdb58ba5aa

@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er009_000.yaml, hash: 'sha256:2d9de1753527fd11136b19008443b4399517536cacb9ffa97a722682796ec4ce'}
+  - {seq: 0, filename: KR3er009_000.yaml, hash: 'sha256:b4dc990e6ef4fe1855773810efd98d0fddbf827e5b4e144d7ce66f1c0705d037'}
   - {seq: 1, filename: KR3er009_001.yaml, hash: 'sha256:de3f8f8aab5a3c133ea9eab5391698df990dfee945479a4375e7271ae4767c08'}
   - {seq: 2, filename: KR3er009_002.yaml, hash: 'sha256:06346567ec9d873bc95675485f45a2369d6d76d48a517d93614dd2de96e2721a'}
   - {seq: 3, filename: KR3er009_003.yaml, hash: 'sha256:e7df4cbb4157a9851a40e856b3b3fd021001633c33ba2893afb3131aaf6bb631'}
   - {seq: 4, filename: KR3er009_004.yaml, hash: 'sha256:148b54036b4bd16de85875b58ac6f86562a246290e5a37aa3d3dd08733bb59b3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er009_000.markers.yaml, hash: 'sha256:16d8aa9269ac0a13625f7bbd58065d662c07095350155d11dd3b505b566a96fd'}
+  - {seq: 0, role: markers, filename: assets/KR3er009_000.markers.yaml, hash: 'sha256:bdfeb242e16687834e78e58e68b73fac31781c2bb4376974c320819151be3ef7'}
   - {seq: 1, role: markers, filename: assets/KR3er009_001.markers.yaml, hash: 'sha256:6d7dc8ee602f62fb0c7039f1a0ad066056c7b72b09f5ea69c7183b0ee6119607'}
   - {seq: 2, role: markers, filename: assets/KR3er009_002.markers.yaml, hash: 'sha256:9e9e7b943d42c29bbbd558e0ec22050cae41fe637c1c7b8e61da8a322bc3397c'}
   - {seq: 3, role: markers, filename: assets/KR3er009_003.markers.yaml, hash: 'sha256:fbfbc7d97d4753b4a6c516ebdb8e930c02f548bed2e3814ad8611b5903feb2b8'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er009_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 343
   label: 鍾序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er009_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 343
     - 757
   label: 自序
@@ -54,8 +54,8 @@ table_of_contents:
     marker_id: KR3er009_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 647
+    - 757
+    - 1404
   label: 例論
   type: section
   level: 1
@@ -589,7 +589,7 @@ table_of_contents:
   label: 女科列方
   type: section
   level: 3
-hash: sha256:4dfd42ac7450d593aa6fe0f7545d435900409f08e2819d68d0bf4b65a46fea99
+hash: sha256:4dd53d968c4047d4d023e7966a6644ddf4016719eca40e26b38565452679baf3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
